@@ -1,1 +1,16 @@
+Agregar los limks de acceso directo a cada una de las imagenes :
 
+_______ Navbar
+
+logo1.jpg
+https://github.com/aimoteles/aimotelesimg/blob/755ab674edb810f3ba89c02ead7899010275ac33/Navbar/logo1.jpg
+
+
+logo2noback.jpg
+https://github.com/aimoteles/aimotelesimg/blob/755ab674edb810f3ba89c02ead7899010275ac33/Navbar/logo2noback.jpg
+
+
+logo3.jpg
+https://github.com/aimoteles/aimotelesimg/blob/755ab674edb810f3ba89c02ead7899010275ac33/Navbar/logo3.jpg
+
+________
