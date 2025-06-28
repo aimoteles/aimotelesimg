@@ -2,4 +2,6 @@ Url imagenes habitaciones
 
 1
 https://lh4.googleusercontent.com/p5p3Eg74HaZPDzRgqe1mwDoLxpbl3Dlbsivxg4AgBn9GERLW5ZNbQSUcJokdi1NSMDUeDY_ISqaejDrf_eDhuGqet2oIY2nynqeIdBMOwQLAgs3FzYGJgRUfwlDTDAEYH7yIlNXCveSDy4tABZGAZ_6MyookCVSrh8rpw5i-r42_6DKps1v1Rg=w1280
-
+____
+https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion1.jpg
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion1.jpg
