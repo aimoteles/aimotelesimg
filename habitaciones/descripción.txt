@@ -1,7 +1,16 @@
 descripcion Carpeta Habitaciones.
 
 Registro de :
-
+* Pagina de Habitación #...
 * Imagenes de las habitaciones.
 * Videos de las habitaciones.
 * Descripción.
+
+________
+paginas de habitaciones # ...
+
+https://www.moltellaluna.com/habitacion-1
+
+
+
+
