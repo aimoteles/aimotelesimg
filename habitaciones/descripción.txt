@@ -9,7 +9,46 @@ Registro de :
 ________
 paginas de habitaciones # ...
 
+1
 https://www.moltellaluna.com/habitacion-1
+2
+https://www.moltellaluna.com/habitacion-2
+3
+https://www.moltellaluna.com/habitaci%C3%B3n-3
+4
+https://www.moltellaluna.com/habitaci%C3%B3n-4
+5
+https://www.moltellaluna.com/habitacion-5
+6
+https://www.moltellaluna.com/habitacion-6
+7
+https://www.moltellaluna.com/habitacion-7
+8
+https://www.moltellaluna.com/habitacion-8
+9
+https://www.moltellaluna.com/habitacion-9
+10
+https://www.moltellaluna.com/habitacion-10
+11
+https://www.moltellaluna.com/habitacion-11
+12
+https://www.moltellaluna.com/habitacion-12
+13
+https://www.moltellaluna.com/habitacion-13
+14
+https://www.moltellaluna.com/habitacion-14
+15
+https://www.moltellaluna.com/habitacion-15
+16
+https://www.moltellaluna.com/habitacion-16
+17
+https://www.moltellaluna.com/habitacion-17
+18
+https://www.moltellaluna.com/habitacion-18
+19
+https://www.moltellaluna.com/habitacion-uci
+20
+https://www.moltellaluna.com/habitacion-20
 
 
 
