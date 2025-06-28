@@ -1,1 +1,7 @@
+descripcion Carpeta Habitaciones.
 
+Registro de :
+
+* Imagenes de las habitaciones.
+* Videos de las habitaciones.
+* Descripción.
