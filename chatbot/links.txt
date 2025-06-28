@@ -1,4 +1,19 @@
 Chatbot de prueba
 
+pasos para obtener el enlace directo a las imagenes :
+1. Acceder a la imagen, con click en el nombre de la imágen.
+2. En la vista previa, click sostenido sobre la imagen, 
+   seleccionar abrir en una pestaña nueva.
+3. En la pestaña nueva copiar la Url que se muestra en la barra direcciones del explorador.
+
+con estos sencillos pasos accedo al link directo, que se va a copiar en el src="" de cada imagen del sitio webapp.
+
+________
 *Encab
+github:
 https://github.com/aimoteles/aimotelesimg/blob/main/chatbot/aimotelescatbot4.jpg
+enlace directo:
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/chatbot/aimotelescatbot4.jpg
+_________
+
+
