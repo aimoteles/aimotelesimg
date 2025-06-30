@@ -99,7 +99,7 @@ https://lh6.googleusercontent.com/ZBla80TftfL9b5IpT1WKJ__5MngGnTKZ_ehend9s5LtD54
 
 ____
 https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion-14.jpg
-
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion-14.jpg
 
 
 15
@@ -107,7 +107,7 @@ https://lh4.googleusercontent.com/Bc_Ms2Tj88stYX6WiM2WvhP7OsFAx-1s---Cy7bpElQm_s
 
 ____
 https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion-15.jpg
-
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion-15.jpg
 
 
 16
@@ -115,8 +115,7 @@ https://lh3.googleusercontent.com/Xb3rjGabjArKowDAVlIJPOzbCGMPZZSMIRZUq9Wogqdd33
 
 ____
 https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion-16.jpg
-
-
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion-16.jpg
 
 
 17
@@ -124,7 +123,7 @@ https://lh4.googleusercontent.com/9Ajdiz-pyefim3ZgNWS9cGTYbVUvIKCXff6BLCG5B-xsGx
 
 ____
 https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion-17.jpg
-
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion-17.jpg
 
 
 18
@@ -132,7 +131,7 @@ https://lh3.googleusercontent.com/slOB6rR1NOJa_ZS1S62Ogo-_AEEJZvIIJSeALQa0AeGvLd
 
 ____
 https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion-18.jpg
-
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion-18.jpg
 
 
 19
@@ -140,8 +139,7 @@ https://lh6.googleusercontent.com/mi2Pp3_3PoDWe26eQ2TiF4-toN1lOmYC76RcSlgKWU5G6k
 
 ____
 https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion-19.jpg
-
-
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion-19.jpg
 
 
 20
@@ -149,6 +147,7 @@ https://lh6.googleusercontent.com/ra9_tISNtUvnIx0uWQcfLynS43ulPPp4wtl7kTszyJGLNC
 
 ____
 https://github.com/aimoteles/aimotelesimg/blob/main/habitaciones/imagenes/habitacion-20.jpg
+https://raw.githubusercontent.com/aimoteles/aimotelesimg/refs/heads/main/habitaciones/imagenes/habitacion-20.jpg
 
 
 
