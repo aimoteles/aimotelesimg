@@ -67,7 +67,6 @@ Cuenta Con :
 -Parqueadero Moto o Carro
 Valor  30.000 2 Horas
 
-
 ====
 Hora Adicional : 7.000
 Persona Adicional : 10.000
@@ -90,7 +89,6 @@ Cuenta Con
 -Parqueadero Moto o Carro
 Valor  30.000 2 Horas
 
-
 ====
 Hora Adicional : 7.000
 Persona Adicional : 10.000
@@ -111,7 +109,6 @@ Cuenta Con :
 
 -Parqueadero Moto o Carro
 Valor  2 hrs 30.000
-
 
 ====
 Hora Adicional : 7.000
@@ -178,6 +175,16 @@ Cuenta Con :
 
 -Parqueadero Moto o Carro
 Valor  20.000 1 Hora - 25.000 2 Horas
+
+====
+Hora Adicional : 7.000
+Persona Adicional : 10.000
+
+Amanecida : 57.000
+Horario : De 10 p.m  a  8 a.m. De Lunes a Jueves
+Horario : De 11 p.m  a  8 a.m. Fines de semana 
+====
+
 
 ____________________
 Habitación 10
