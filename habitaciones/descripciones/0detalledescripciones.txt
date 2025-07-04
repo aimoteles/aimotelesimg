@@ -246,11 +246,18 @@ Cuenta Con :
 -mini bar
 
 -Parqueadero Moto o Carro
-Valor  30.000 2 Horas
+Valor  40.000 2 Horas
 
 Jacuzzi
 
+====
+Hora Adicional : 10.000
+Persona Adicional : 15.000
 
+Amanecida : 120.000
+Horario : De 10 p.m  a  8 a.m. De Lunes a Jueves
+Horario : De 11 p.m  a  8 a.m. Fines de semana 
+====
 
 ____________________
 Habitación 13
@@ -314,6 +321,15 @@ Cuenta Con :
 -Parqueadero Moto o Carro
 
 Valor 35.000 2 Horas
+
+====
+Hora Adicional : 10.000
+Persona Adicional : 15.000
+
+Amanecida : 80.000
+Horario : De 10 p.m  a  8 a.m. De Lunes a Jueves
+Horario : De 11 p.m  a  8 a.m. Fines de semana 
+====
 
 ____________________
 Habitación 17
